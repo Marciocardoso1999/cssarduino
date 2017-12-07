@@ -41,7 +41,7 @@ function AlteraRele3(){
 
 function AlteraRele4(){
     var estado_4 = document.getElementById("estado_4").innerHTML;
-    if(estado_ === "0"){
+    if(estado_4 === "0"){
         document.getElementById("estado_4").innerHTML="1";
         document.getElementById("rele_4").innerHTML="<div class='rele4_ligado'></div>";
 		document.getElementById("botao_4").innerHTML="<a href='/?4_desligar' class='botao_4'>Desliga</a>";
