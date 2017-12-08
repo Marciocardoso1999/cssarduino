@@ -13,13 +13,13 @@ body {
 }
 
 #wrapper {
-    padding-top: 40px;
+
     position: relative;
-    width: 530px;
-    height: 600px;
+    width: 630px;
+    height: 700px;
     margin-right: auto;
-    margin-top: 0;
-    margin-left: auto;
+    margin-top: 10px;
+    margin-left: 150px;
     font-size: 30px;
     color: black;
     text-align: center;
@@ -93,7 +93,7 @@ div.rele2_desligado {
     right: 230px;
     top: 85px;
     width: 200px;
-    height: 256px;
+    height: 26px;
 }
 
 .botao {
@@ -130,7 +130,7 @@ div.rele2_desligado {
     right: 230px;
     top: 285px;
     width: 200px;
-    height: 256px;
+    height: 26px;
 }
 
 .botao_2 {
@@ -160,7 +160,7 @@ div.rele2_desligado {
 .botao_2:active {
     position:relative;
     top:1px;
-} 
+}
 
 div.rele3_ligado {
     position: absolute;
@@ -232,7 +232,7 @@ div.rele4_desligado {
     right: 230px;
     top: 485px;
     width: 200px;
-    height: 256px;
+    height: 26px;
 }
 
 .botao_3 {
@@ -270,7 +270,7 @@ div.rele4_desligado {
     right: 230px;
     top: 685px;
     width: 200px;
-    height: 256px;
+    height: 26px;
 }
 
 .botao_4 {
