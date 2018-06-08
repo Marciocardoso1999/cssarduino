@@ -9,18 +9,19 @@ body {
 }
 
 #wrapper {
-
+    padding-top: 40px;
     position: relative;
-    width: 630px;
-    height: 700px;
-    margin-right: auto;
-    margin-top: 10px;
-    margin-left: 150px;
-    font-size: 30px;
-    color: black;
-    text-align: center;
-    font-family: arial;
+    width: 530px;
+    height: 600px;
+	margin-right: auto;
+	margin-top: 0;
+	margin-left: auto;
+        font-size: 30px;
+        color: black;
+        text-align: center;
+        font-family: arial;
 }
+
 
 div.rele1_ligado {
     position: absolute;
